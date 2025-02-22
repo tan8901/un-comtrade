@@ -1,0 +1,364 @@
+date,HS2,Export,text,rank,eall,share
+1991,88,1.0826,"88 - Aircraft, spacecraft, and parts thereof",1,6.2305,17.4
+1991,84,1.0574,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,6.2305,17
+1991,31,0.9774,31 - Fertilizers,3,6.2305,15.7
+1991,10,0.3634,10 - Cereals,4,6.2305,5.8
+1991,52,0.3261,52 - Cotton,5,6.2305,5.2
+1991,90,0.3164,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,6.2305,5.1
+1991,39,0.2963,39 - Plastics and articles thereof,7,6.2305,4.8
+1991,85,0.2772,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",8,6.2305,4.4
+1991,29,0.2737,29 - Organic chemicals,9,6.2305,4.4
+1991,44,0.1675,44 - Wood and articles of wood; wood charcoal,10,6.2305,2.7
+1991,Other,1.0925,Other,,6.2305,17.5
+1992,84,1.1761,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,7.403,15.9
+1992,31,0.6291,31 - Fertilizers,3,7.403,8.5
+1992,85,0.4641,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",4,7.403,6.3
+1992,88,2.0558,"88 - Aircraft, spacecraft, and parts thereof",1,7.403,27.8
+1992,10,0.273,10 - Cereals,6,7.403,3.7
+1992,87,0.2727,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",7,7.403,3.7
+1992,39,0.2226,39 - Plastics and articles thereof,8,7.403,3
+1992,90,0.4351,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,7.403,5.9
+1992,52,0.2002,52 - Cotton,10,7.403,2.7
+1992,29,0.2126,29 - Organic chemicals,9,7.403,2.9
+1992,Other,1.4617,Other,,7.403,19.7
+1993,88,2.2292,"88 - Aircraft, spacecraft, and parts thereof",1,8.6848,25.7
+1993,84,1.8186,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,8.6848,20.9
+1993,90,0.4688,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,8.6848,5.4
+1993,31,0.2927,31 - Fertilizers,6,8.6848,3.4
+1993,10,0.2742,10 - Cereals,7,8.6848,3.2
+1993,27,0.2493,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",8,8.6848,2.9
+1993,29,0.2056,29 - Organic chemicals,9,8.6848,2.4
+1993,39,0.198,39 - Plastics and articles thereof,10,8.6848,2.3
+1993,85,0.8951,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",3,8.6848,10.3
+1993,87,0.8058,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",4,8.6848,9.3
+1993,Other,1.2475,Other,,8.6848,14.4
+1994,84,1.9203,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",1,9.1822,20.9
+1994,52,0.65,52 - Cotton,5,9.1822,7.1
+1994,88,1.9106,"88 - Aircraft, spacecraft, and parts thereof",2,9.1822,20.8
+1994,31,0.9441,31 - Fertilizers,3,9.1822,10.3
+1994,85,0.9194,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",4,9.1822,10
+1994,39,0.1848,39 - Plastics and articles thereof,9,9.1822,2
+1994,10,0.1701,10 - Cereals,10,9.1822,1.9
+1994,90,0.3858,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,9.1822,4.2
+1994,87,0.316,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",7,9.1822,3.4
+1994,29,0.2348,29 - Organic chemicals,8,9.1822,2.6
+1994,Other,1.5463,Other,,9.1822,16.8
+1995,84,2.1902,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",1,11.6,18.9
+1995,85,1.2701,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",2,11.6,10.9
+1995,31,1.2042,31 - Fertilizers,3,11.6,10.4
+1995,88,1.1758,"88 - Aircraft, spacecraft, and parts thereof",4,11.6,10.1
+1995,10,1.1448,10 - Cereals,5,11.6,9.9
+1995,52,0.8336,52 - Cotton,6,11.6,7.2
+1995,90,0.4499,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",7,11.6,3.9
+1995,15,0.3964,"15 - Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",8,11.6,3.4
+1995,Other,2.3209,Other,,11.6,20
+1995,39,0.3507,39 - Plastics and articles thereof,9,11.6,3
+1995,29,0.2634,29 - Organic chemicals,10,11.6,2.3
+1996,31,0.8911,31 - Fertilizers,4,11.82,7.5
+1996,10,0.441,10 - Cereals,7,11.82,3.7
+1996,12,0.4275,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",8,11.82,3.6
+1996,52,0.7297,52 - Cotton,5,11.82,6.2
+1996,90,0.4876,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,11.82,4.1
+1996,84,2.3038,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",1,11.82,19.5
+1996,88,1.7084,"88 - Aircraft, spacecraft, and parts thereof",2,11.82,14.5
+1996,39,0.4029,39 - Plastics and articles thereof,9,11.82,3.4
+1996,48,0.2505,"48 - Paper and paperboard; articles of paper pulp, of paper or paperboard",10,11.82,2.1
+1996,85,1.4332,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",3,11.82,12.1
+1996,Other,2.7443,Other,,11.82,23.2
+1997,84,2.477,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",1,12.663,19.6
+1997,88,2.1226,"88 - Aircraft, spacecraft, and parts thereof",2,12.663,16.8
+1997,87,0.3532,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",9,12.663,2.8
+1997,48,0.2601,"48 - Paper and paperboard; articles of paper pulp, of paper or paperboard",10,12.663,2.1
+1997,52,0.5775,52 - Cotton,6,12.663,4.6
+1997,85,1.5201,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",3,12.663,12
+1997,31,1.0498,31 - Fertilizers,4,12.663,8.3
+1997,90,0.6274,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,12.663,5
+1997,39,0.4323,39 - Plastics and articles thereof,7,12.663,3.4
+1997,12,0.4286,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",8,12.663,3.4
+1997,Other,2.8144,Other,,12.663,22.2
+1998,88,3.5852,"88 - Aircraft, spacecraft, and parts thereof",1,14.0575,25.5
+1998,90,0.6796,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,14.0575,4.8
+1998,84,2.7185,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,14.0575,19.3
+1998,85,1.7542,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",3,14.0575,12.5
+1998,31,1.0641,31 - Fertilizers,4,14.0575,7.6
+1998,Other,2.6419,Other,,14.0575,18.8
+1998,12,0.3037,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",9,14.0575,2.2
+1998,39,0.432,39 - Plastics and articles thereof,6,14.0575,3.1
+1998,48,0.3358,"48 - Paper and paperboard; articles of paper pulp, of paper or paperboard",7,14.0575,2.4
+1998,15,0.3195,"15 - Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",8,14.0575,2.3
+1998,29,0.223,29 - Organic chemicals,10,14.0575,1.6
+1999,31,0.9317,31 - Fertilizers,4,12.9155,7.2
+1999,39,0.5225,39 - Plastics and articles thereof,6,12.9155,4
+1999,12,0.3706,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",7,12.9155,2.9
+1999,48,0.3468,"48 - Paper and paperboard; articles of paper pulp, of paper or paperboard",8,12.9155,2.7
+1999,90,0.792,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,12.9155,6.1
+1999,84,2.5717,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",1,12.9155,19.9
+1999,88,2.3171,"88 - Aircraft, spacecraft, and parts thereof",2,12.9155,17.9
+1999,85,1.9854,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",3,12.9155,15.4
+1999,Other,2.5456,Other,,12.9155,19.7
+1999,29,0.3189,29 - Organic chemicals,9,12.9155,2.5
+1999,87,0.2132,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",10,12.9155,1.7
+2000,29,0.4881,29 - Organic chemicals,8,15.9668,3.1
+2000,48,0.391,"48 - Paper and paperboard; articles of paper pulp, of paper or paperboard",9,15.9668,2.4
+2000,84,3.4925,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",1,15.9668,21.9
+2000,85,2.6997,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",2,15.9668,16.9
+2000,76,0.3174,76 - Aluminium and articles thereof,10,15.9668,2
+2000,12,1.0449,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",4,15.9668,6.5
+2000,90,0.8144,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,15.9668,5.1
+2000,39,0.7199,39 - Plastics and articles thereof,6,15.9668,4.5
+2000,88,1.6919,"88 - Aircraft, spacecraft, and parts thereof",3,15.9668,10.6
+2000,Other,3.6953,Other,,15.9668,23.1
+2000,31,0.6117,31 - Fertilizers,7,15.9668,3.8
+2001,85,3.4325,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",2,18.9735,18.1
+2001,88,2.4479,"88 - Aircraft, spacecraft, and parts thereof",3,18.9735,12.9
+2001,84,4.0529,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",1,18.9735,21.4
+2001,Other,4.2152,Other,,18.9735,22.2
+2001,39,0.839,39 - Plastics and articles thereof,6,18.9735,4.4
+2001,72,0.4556,72 - Iron and steel,7,18.9735,2.4
+2001,90,1.2487,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",4,18.9735,6.6
+2001,12,1.0316,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",5,18.9735,5.4
+2001,29,0.3993,29 - Organic chemicals,10,18.9735,2.1
+2001,41,0.4309,41 - Raw hides and skins (other than furskins) and leather,8,18.9735,2.3
+2001,31,0.4199,31 - Fertilizers,9,18.9735,2.2
+2002,39,0.9838,39 - Plastics and articles thereof,6,21.8997,4.5
+2002,12,1.025,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",5,21.8997,4.7
+2002,84,4.0973,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",1,21.8997,18.7
+2002,85,3.9488,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",2,21.8997,18
+2002,88,3.4288,"88 - Aircraft, spacecraft, and parts thereof",3,21.8997,15.7
+2002,90,1.2435,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",4,21.8997,5.7
+2002,Other,4.9421,Other,,21.8997,22.6
+2002,41,0.4416,41 - Raw hides and skins (other than furskins) and leather,10,21.8997,2
+2002,31,0.6756,31 - Fertilizers,7,21.8997,3.1
+2002,29,0.6192,29 - Organic chemicals,8,21.8997,2.8
+2002,72,0.494,72 - Iron and steel,9,21.8997,2.3
+2003,52,0.7681,52 - Cotton,9,28.1008,2.7
+2003,85,4.782,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,28.1008,17
+2003,84,4.6372,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,28.1008,16.5
+2003,12,2.9358,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",3,28.1008,10.4
+2003,88,2.4305,"88 - Aircraft, spacecraft, and parts thereof",4,28.1008,8.6
+2003,90,1.5946,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,28.1008,5.7
+2003,39,1.2454,39 - Plastics and articles thereof,6,28.1008,4.4
+2003,29,1.112,29 - Organic chemicals,7,28.1008,4
+2003,72,1.1014,72 - Iron and steel,8,28.1008,3.9
+2003,Other,6.8438,Other,,28.1008,24.4
+2003,74,0.65,74 - Copper and articles thereof,10,28.1008,2.3
+2004,Other,9.0585,Other,,34.0814,26.6
+2004,85,6.0722,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,34.0814,17.8
+2004,84,6.0676,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,34.0814,17.8
+2004,12,2.3711,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",3,34.0814,7
+2004,90,2.0749,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",4,34.0814,6.1
+2004,88,1.8148,"88 - Aircraft, spacecraft, and parts thereof",5,34.0814,5.3
+2004,39,1.796,39 - Plastics and articles thereof,6,34.0814,5.3
+2004,29,1.5504,29 - Organic chemicals,7,34.0814,4.5
+2004,52,1.4319,52 - Cotton,8,34.0814,4.2
+2004,72,1.0998,72 - Iron and steel,9,34.0814,3.2
+2004,47,0.7442,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,10,34.0814,2.2
+2005,85,6.8522,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,40.802,16.8
+2005,84,6.2169,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,40.802,15.2
+2005,90,2.3889,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",4,40.802,5.9
+2005,12,2.2854,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",5,40.802,5.6
+2005,39,2.2623,39 - Plastics and articles thereof,6,40.802,5.5
+2005,72,1.596,72 - Iron and steel,7,40.802,3.9
+2005,29,1.5129,29 - Organic chemicals,8,40.802,3.7
+2005,52,1.4174,52 - Cotton,9,40.802,3.5
+2005,47,0.9949,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,10,40.802,2.4
+2005,88,3.7904,"88 - Aircraft, spacecraft, and parts thereof",3,40.802,9.3
+2005,Other,11.4847,Other,,40.802,28.1
+2006,85,10.1779,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,54.7411,18.6
+2006,84,7.7043,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,54.7411,14.1
+2006,39,2.7156,39 - Plastics and articles thereof,5,54.7411,5
+2006,12,2.5846,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",6,54.7411,4.7
+2006,88,6.0896,"88 - Aircraft, spacecraft, and parts thereof",3,54.7411,11.1
+2006,90,2.9413,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",4,54.7411,5.4
+2006,74,1.7744,74 - Copper and articles thereof,9,54.7411,3.2
+2006,76,1.7354,76 - Aluminium and articles thereof,10,54.7411,3.2
+2006,52,2.0818,52 - Cotton,7,54.7411,3.8
+2006,72,1.8003,72 - Iron and steel,8,54.7411,3.3
+2006,Other,15.1359,Other,,54.7411,27.6
+2007,85,10.6638,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,64.6869,16.5
+2007,39,3.6003,39 - Plastics and articles thereof,5,64.6869,5.6
+2007,84,8.8594,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,64.6869,13.7
+2007,88,7.198,"88 - Aircraft, spacecraft, and parts thereof",3,64.6869,11.1
+2007,12,4.1793,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",4,64.6869,6.5
+2007,29,2.1008,29 - Organic chemicals,9,64.6869,3.2
+2007,90,3.3143,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,64.6869,5.1
+2007,72,2.2252,72 - Iron and steel,7,64.6869,3.4
+2007,74,2.1626,74 - Copper and articles thereof,8,64.6869,3.3
+2007,Other,18.3301,Other,,64.6869,28.3
+2007,47,2.0531,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,10,64.6869,3.2
+2008,Other,20.684,Other,,70.7928,29.2
+2008,88,5.1083,"88 - Aircraft, spacecraft, and parts thereof",4,70.7928,7.2
+2008,90,3.7419,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,70.7928,5.3
+2008,72,2.4435,72 - Iron and steel,7,70.7928,3.5
+2008,47,2.2831,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,8,70.7928,3.2
+2008,39,3.837,39 - Plastics and articles thereof,5,70.7928,5.4
+2008,29,2.0839,29 - Organic chemicals,10,70.7928,2.9
+2008,84,9.7486,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,70.7928,13.8
+2008,12,7.3636,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",3,70.7928,10.4
+2008,76,2.1147,76 - Aluminium and articles thereof,9,70.7928,3
+2008,85,11.3842,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,70.7928,16.1
+2009,85,9.4772,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,68.9902,13.7
+2009,12,9.3126,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",2,68.9902,13.5
+2009,47,2.4976,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,8,68.9902,3.6
+2009,29,2.3982,29 - Organic chemicals,9,68.9902,3.5
+2009,87,1.9214,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",10,68.9902,2.8
+2009,39,4.3784,39 - Plastics and articles thereof,5,68.9902,6.3
+2009,90,3.9659,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,68.9902,5.7
+2009,84,8.4005,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",3,68.9902,12.2
+2009,88,5.3365,"88 - Aircraft, spacecraft, and parts thereof",4,68.9902,7.7
+2009,72,2.8496,72 - Iron and steel,7,68.9902,4.1
+2009,Other,18.4523,Other,,68.9902,26.7
+2010,85,11.5249,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,90.6103,12.7
+2010,84,11.2199,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,90.6103,12.4
+2010,90,5.204,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,90.6103,5.7
+2010,39,4.8421,39 - Plastics and articles thereof,6,90.6103,5.3
+2010,12,11.037,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",3,90.6103,12.2
+2010,88,5.7628,"88 - Aircraft, spacecraft, and parts thereof",4,90.6103,6.4
+2010,Other,27.5916,Other,,90.6103,30.5
+2010,29,2.9792,29 - Organic chemicals,9,90.6103,3.3
+2010,74,2.886,74 - Copper and articles thereof,10,90.6103,3.2
+2010,87,4.5105,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",7,90.6103,5
+2010,47,3.0523,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,8,90.6103,3.4
+2011,87,6.7678,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",4,103.2351,6.6
+2011,88,6.3984,"88 - Aircraft, spacecraft, and parts thereof",5,103.2351,6.2
+2011,90,5.7579,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,103.2351,5.6
+2011,39,5.1234,39 - Plastics and articles thereof,7,103.2351,5
+2011,47,3.9953,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,8,103.2351,3.9
+2011,74,3.7735,74 - Copper and articles thereof,9,103.2351,3.7
+2011,84,12.2468,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",1,103.2351,11.9
+2011,12,10.7143,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",2,103.2351,10.4
+2011,85,10.1642,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",3,103.2351,9.8
+2011,Other,34.7693,Other,,103.2351,33.7
+2011,29,3.5242,29 - Organic chemicals,10,103.2351,3.4
+2012,Other,34.8713,Other,,109.679,31.8
+2012,39,4.6983,39 - Plastics and articles thereof,7,109.679,4.3
+2012,74,3.9415,74 - Copper and articles thereof,8,109.679,3.6
+2012,52,3.5194,52 - Cotton,10,109.679,3.2
+2012,84,11.554,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,109.679,10.5
+2012,85,9.6672,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",3,109.679,8.8
+2012,47,3.82,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,9,109.679,3.5
+2012,12,15.1467,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,109.679,13.8
+2012,90,7.0346,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,109.679,6.4
+2012,88,8.3661,"88 - Aircraft, spacecraft, and parts thereof",4,109.679,7.6
+2012,87,7.0599,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",5,109.679,6.4
+2013,88,12.5874,"88 - Aircraft, spacecraft, and parts thereof",2,120.7646,10.4
+2013,12,13.6988,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,120.7646,11.3
+2013,Other,37.9736,Other,,120.7646,31.4
+2013,90,7.6658,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,120.7646,6.3
+2013,84,12.2021,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",3,120.7646,10.1
+2013,85,11.3869,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",4,120.7646,9.4
+2013,87,10.3303,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",5,120.7646,8.6
+2013,29,3.1026,29 - Organic chemicals,10,120.7646,2.6
+2013,39,4.7445,39 - Plastics and articles thereof,7,120.7646,3.9
+2013,47,3.6016,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,8,120.7646,3
+2013,74,3.471,74 - Copper and articles thereof,9,120.7646,2.9
+2014,87,13.27,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",3,122.6839,10.8
+2014,84,12.4755,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",4,122.6839,10.2
+2014,85,12.0191,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",5,122.6839,9.8
+2014,90,7.5276,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,122.6839,6.1
+2014,39,5.0724,39 - Plastics and articles thereof,7,122.6839,4.1
+2014,12,14.937,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,122.6839,12.2
+2014,88,13.9251,"88 - Aircraft, spacecraft, and parts thereof",2,122.6839,11.4
+2014,Other,34.5157,Other,,122.6839,28.1
+2014,44,2.6644,44 - Wood and articles of wood; wood charcoal,10,122.6839,2.2
+2014,47,3.3659,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,8,122.6839,2.7
+2014,74,2.9112,74 - Copper and articles thereof,9,122.6839,2.4
+2015,29,2.4638,29 - Organic chemicals,10,115.1165,2.1
+2015,10,2.4664,10 - Cereals,9,115.1165,2.1
+2015,88,15.4409,"88 - Aircraft, spacecraft, and parts thereof",1,115.1165,13.4
+2015,85,12.7607,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",2,115.1165,11.1
+2015,84,12.2481,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",3,115.1165,10.6
+2015,12,11.0909,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",4,115.1165,9.6
+2015,87,10.8682,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",5,115.1165,9.4
+2015,90,7.9226,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,115.1165,6.9
+2015,39,4.9097,39 - Plastics and articles thereof,7,115.1165,4.3
+2015,47,3.414,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,8,115.1165,3
+2015,Other,31.5312,Other,,115.1165,27.4
+2016,Other,28.5722,Other,,114.5711,24.9
+2016,84,11.3873,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",4,114.5711,9.9
+2016,12,14.9054,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,114.5711,13
+2016,88,14.578,"88 - Aircraft, spacecraft, and parts thereof",2,114.5711,12.7
+2016,85,12.3784,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",3,114.5711,10.8
+2016,47,3.3676,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,8,114.5711,2.9
+2016,87,11.0664,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",5,114.5711,9.7
+2016,90,8.267,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,114.5711,7.2
+2016,39,4.9327,39 - Plastics and articles thereof,7,114.5711,4.3
+2016,27,2.5704,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",9,114.5711,2.2
+2016,44,2.5457,44 - Wood and articles of wood; wood charcoal,10,114.5711,2.2
+2017,Other,32.1001,Other,,128.6252,25
+2017,88,16.2656,"88 - Aircraft, spacecraft, and parts thereof",1,128.6252,12.6
+2017,84,12.8927,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,128.6252,10
+2017,87,12.8627,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",3,128.6252,10
+2017,12,12.8405,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",4,128.6252,10
+2017,85,12.1298,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",5,128.6252,9.4
+2017,90,8.8184,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",6,128.6252,6.9
+2017,27,8.4976,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",7,128.6252,6.6
+2017,39,5.6619,39 - Plastics and articles thereof,8,128.6252,4.4
+2017,47,3.3581,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,9,128.6252,2.6
+2017,44,3.1978,44 - Wood and articles of wood; wood charcoal,10,128.6252,2.5
+2018,88,18.2219,"88 - Aircraft, spacecraft, and parts thereof",1,119.008,15.3
+2018,84,14.1997,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,119.008,11.9
+2018,85,12.8799,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",3,119.008,10.8
+2018,90,9.7881,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",4,119.008,8.2
+2018,87,9.3811,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",5,119.008,7.9
+2018,27,8.4507,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",6,119.008,7.1
+2018,12,3.6652,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",8,119.008,3.1
+2018,47,2.9131,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,9,119.008,2.4
+2018,44,2.8634,44 - Wood and articles of wood; wood charcoal,10,119.008,2.4
+2018,39,5.7011,39 - Plastics and articles thereof,7,119.008,4.8
+2018,Other,30.9438,Other,,119.008,26
+2019,85,14.4281,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,105.4732,13.7
+2019,84,12.7719,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,105.4732,12.1
+2019,87,9.1345,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",5,105.4732,8.7
+2019,12,8.5412,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",6,105.4732,8.1
+2019,88,10.46,"88 - Aircraft, spacecraft, and parts thereof",3,105.4732,9.9
+2019,90,9.7537,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",4,105.4732,9.2
+2019,27,3.7658,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",9,105.4732,3.6
+2019,38,2.7381,38 - Chemical products n.e.c.,10,105.4732,2.6
+2019,39,4.9821,39 - Plastics and articles thereof,7,105.4732,4.7
+2019,30,4.1436,30 - Pharmaceutical products,8,105.4732,3.9
+2019,Other,24.7542,Other,,105.4732,23.5
+2020,Other,32.3538,Other,,123.4377,26.2
+2020,27,9.8947,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",4,123.4377,8
+2020,90,9.5069,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,123.4377,7.7
+2020,87,8.1915,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",6,123.4377,6.6
+2020,39,5.4156,39 - Plastics and articles thereof,7,123.4377,4.4
+2020,30,4.6432,30 - Pharmaceutical products,8,123.4377,3.8
+2020,88,4.3992,"88 - Aircraft, spacecraft, and parts thereof",9,123.4377,3.6
+2020,02,3.1496,02 - Meat and edible meat offal,10,123.4377,2.6
+2020,12,15.0302,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",2,123.4377,12.2
+2020,84,13.8093,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",3,123.4377,11.2
+2020,85,17.0437,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,123.4377,13.8
+2021,27,15.3971,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",3,149.7261,10.3
+2021,85,19.357,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,149.7261,12.9
+2021,84,16.7287,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",2,149.7261,11.2
+2021,Other,38.4788,Other,,149.7261,25.7
+2021,30,6.6671,30 - Pharmaceutical products,8,149.7261,4.5
+2021,39,6.3345,39 - Plastics and articles thereof,9,149.7261,4.2
+2021,88,4.7172,"88 - Aircraft, spacecraft, and parts thereof",10,149.7261,3.2
+2021,87,8.4817,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",6,149.7261,5.7
+2021,10,7.7688,10 - Cereals,7,149.7261,5.2
+2021,12,15.0409,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",4,149.7261,10
+2021,90,10.7543,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,149.7261,7.2
+2022,12,18.8787,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,152.1587,12.4
+2022,85,16.0051,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",2,152.1587,10.5
+2022,84,14.9156,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",3,152.1587,9.8
+2022,27,13.4727,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",4,152.1587,8.9
+2022,90,10.9315,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,152.1587,7.2
+2022,30,9.2972,30 - Pharmaceutical products,6,152.1587,6.1
+2022,Other,41.3279,Other,,152.1587,27.2
+2022,10,7.4891,10 - Cereals,7,152.1587,4.9
+2022,87,7.2996,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",8,152.1587,4.8
+2022,39,7.013,39 - Plastics and articles thereof,9,152.1587,4.6
+2022,88,5.5283,"88 - Aircraft, spacecraft, and parts thereof",10,152.1587,3.6
+2023,84,13.7229,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",3,145.6252,9.4
+2023,85,11.6442,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",4,145.6252,8
+2023,90,11.3051,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",5,145.6252,7.8
+2023,30,9.8966,30 - Pharmaceutical products,6,145.6252,6.8
+2023,87,8.1386,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",7,145.6252,5.6
+2023,39,7.4473,39 - Plastics and articles thereof,8,145.6252,5.1
+2023,88,6.8136,"88 - Aircraft, spacecraft, and parts thereof",9,145.6252,4.7
+2023,29,4.2051,29 - Organic chemicals,10,145.6252,2.9
+2023,27,19.7352,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,145.6252,13.6
+2023,12,15.8502,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",2,145.6252,10.9
+2023,Other,36.8664,Other,,145.6252,25.3
