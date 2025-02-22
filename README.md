@@ -16,6 +16,12 @@ This interactive dashboard provides insights into the trade relationship between
 - **Interactivity**:
   - Drop-down selections for real-time updates
   - Hover tooltips for detailed insights
+ 
+## Preview
+![image](https://github.com/user-attachments/assets/aebf41a3-96af-48ec-8fef-7f671c548854)
+![image](https://github.com/user-attachments/assets/c2593654-f7b9-448a-a67e-8a297968241d)
+![image](https://github.com/user-attachments/assets/857dfa1c-ff8e-4fec-86f2-c7842e2593fd)
+
 
 ## Installation
 To run the dashboard locally, ensure you have the following dependencies installed:
